@@ -1,4 +1,7 @@
-# P3PFLASH
+# P3PFLASH v5
+this version uses Putty tool to confirm
+bootme mode please read the instructions
+in the tool
 
 This tool is designed to flash the Phantom 3 Pro camera board
 when the FPV has failed, it is not intended or any other DJI quad
