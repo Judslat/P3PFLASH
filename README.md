@@ -1,4 +1,13 @@
-# P3PFLASH v5
+# P3PFLASH v6
+************************************************************************************************
+************************************************************************************************
+THIS NEW VERSION SHOWS YOU WHICH COM PORTS ARE 
+BEING DETECTED AND NOW ONLY ASK FOR THE COM
+PORT ONCE 
+*************************************************************************************************
+
+
+
 this version uses Putty tool to confirm
 bootme mode please read the instructions
 in the tool
