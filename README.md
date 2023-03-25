@@ -1,16 +1,9 @@
-# P3PFLASH v6
+# P3PFLASH v8
 ************************************************************************************************
 ************************************************************************************************
-THIS NEW VERSION SHOWS YOU WHICH COM PORTS ARE 
-BEING DETECTED AND NOW ONLY ASK FOR THE COM
-PORT ONCE 
+THIS NEW VERSION  AUTO DETECTS YOUR COM PORT SO NO NEED FOR DEVICE MANAGER 
+ALSO HAS A CLEANER INTERFACE 
 *************************************************************************************************
-
-
-
-this version uses Putty tool to confirm
-bootme mode please read the instructions
-in the tool
 
 This tool is designed to flash the Phantom 3 Pro camera board
 when the FPV has failed, it is not intended or any other DJI quad
