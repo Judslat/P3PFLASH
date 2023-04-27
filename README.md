@@ -1,8 +1,9 @@
-# P3PFLASH v8
+# P3PFLASH v9
 ************************************************************************************************
 ************************************************************************************************
 THIS NEW VERSION  AUTO DETECTS YOUR COM PORT SO NO NEED FOR DEVICE MANAGER 
-ALSO HAS A CLEANER INTERFACE 
+ALSO HAS A CLEANER INTERFACE WITH A NEW PICTURE FOR WIRING UP THE BOARD AND 
+THE DRIVERS FOR THE USB TO TTL ADAPTER
 *************************************************************************************************
 
 This tool is designed to flash the Phantom 3 Pro camera board
